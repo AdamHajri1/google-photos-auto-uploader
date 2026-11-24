@@ -1,0 +1,23 @@
+
+# Google credentials
+client_secret.json
+token.json
+
+# Personal upload history
+uploaded_files.json
+
+# Personal photos
+AutoUpload/
+
+# Python temporary files
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.venv/
+
+# Editor files
+.vscode/
+
+test_upload.py
